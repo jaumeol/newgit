@@ -1,4 +1,9 @@
 body { 
- background: mistyrose; 
- text-family: courier, monospace;
+ background: #c0a0ff; 
+}
+
+.code { 
+ background-color: #404040; 
+ color: #f0f0f0;
+ font-family: courier, monospace;
 }
